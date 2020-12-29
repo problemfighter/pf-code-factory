@@ -1,0 +1,43 @@
+= Bismillah
+
+
+== Data Type
+* Integer
+* Double
+* Long
+* Float
+* Boolean
+* String
+* Text
+* Enum
+
+
+== Form Generation
+
+=== Project
+* Project Name
+* BA Name
+* Description
+
+=== Form
+* Submission URL
+* Routing URL
+* Success redirect
+* Failed redirect
+* Description
+
+
+=== Field
+* Field Name
+* DataType
+* Name
+* isRequired
+* DefaultValue
+* ErrorMessage
+
+
+|===
+|Field Name|Data Type|Name|isRequired|Default Value| ErrorMessage | Arrangement
+
+|===
+
